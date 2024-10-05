@@ -34,24 +34,3 @@ To run this application locally, follow these steps:
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to view the application.
-
-## Usage
-
-Once the application is running, you can navigate through different sections using the navigation menu or interactive elements provided on the landing page. Explore channels, view subscription plans, read user guides, watch movies, and more.
-
-## Contributing
-
-Contributions are welcome! If you'd like to enhance the application or fix any issues, feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Thanks to [React](https://reactjs.org/) for providing an efficient and powerful frontend library.
-- Special thanks to all the contributors of open-source libraries used in this project.
-
-## Contact
-
-For any inquiries or feedback, please contact [Zeus](mailto:your_zeuscript@gmail.com).
